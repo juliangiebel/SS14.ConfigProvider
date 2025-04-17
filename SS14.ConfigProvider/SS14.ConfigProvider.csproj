@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>SS14.ConfigProvider</PackageId>
-        <Version>0.0.1</Version>
+        <Version>1.0.0</Version>
         <Authors>Julian Giebel</Authors>
         <PackageDescription>Database config provider</PackageDescription>
         <RepositoryUrl>https://github.com/my-org/my-repo</RepositoryUrl>
